@@ -1,4 +1,4 @@
 # Seminar_1
 # Hello GIT
 # Hello local
-## rep2
+## line conflict
